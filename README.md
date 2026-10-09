@@ -1,0 +1,2 @@
+# premium-chasing-001-metal-chasing-technique-tracke
+You've mastered the delicate art of metal chasing, but tracking which techniques work best on different metals and surfaces is scattered across notebooks and forgotten sketches. The Metal Chasing Technique Tracker solves this by centralizing every technique experiment, material combination, and result in one searchable, beautifully organized Notion
